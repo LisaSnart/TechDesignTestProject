@@ -444,6 +444,7 @@
 "Assets/Code/Script/Anim/Cat_fall_anim.cs"
 "Assets/Code/Script/Anim/Chest_open_anim.cs"
 "Assets/Code/Script/Anim/Stone_glow_anim.cs"
+"Assets/Code/Script/Load_Scene1.cs"
 "Assets/Code/Script/Load_Scene2.cs"
 "Assets/Code/Script/Start_Canvas.cs"
 -langversion:9.0
